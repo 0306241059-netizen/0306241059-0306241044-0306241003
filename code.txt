@@ -1,5 +1,7 @@
+<<<<<<< HEAD
  hello world
 <<<<<<< HEAD
 xin chao Truong Minh Nhat
 xin chao Cao Anh Kiet
+xin chao Dang Hoang Anh
 
